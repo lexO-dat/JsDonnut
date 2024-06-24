@@ -6,9 +6,9 @@ It's made with vanilla JavaScript, so you just need to clone the repo and run th
 
 Inside script.js, you have the following important variables:
 
-pixel_width → sets the width of the donut's pixels
-pixel_height → sets the height of the donut's pixels
-ctx.font (line 58) → sets the size of the characters. THE SIZE OF THE CHARACTERS SHOULD NOT BE LARGER THAN pixel_width AND pixel_height.
+- pixel_width → sets the width of the donut's pixels
+- pixel_height → sets the height of the donut's pixels
+- ctx.font (line 58) → sets the size of the characters. THE SIZE OF THE CHARACTERS SHOULD NOT BE LARGER THAN pixel_width AND pixel_height.
 
 All the donut parameters (lines 45-47) → set the total radius, inner radius, and the projection constants K.
 
